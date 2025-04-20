@@ -16,14 +16,11 @@ This project demonstrates how to host a **static website** using **Amazon S3**, 
 ---
 
 ## 📸 Screenshots
-
-### 🖼️ Homepage Hosted on S3  
+  
 ![Homepage](Screenshot%202025-04-20%20160952.png)
-
-### 🧾 S3 Bucket Settings  
+ 
 ![Settings](Screenshot%202025-04-20%20161047.png)
-
-### ❌ Custom Error Page  
+ 
 ![Error Page](Screenshot%202025-04-20%20161147.png)
 
 ---
